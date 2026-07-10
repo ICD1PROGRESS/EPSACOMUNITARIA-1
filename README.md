@@ -13,7 +13,26 @@
 
 **EPSACOMUNITARIA Digital** es una plataforma web diseñada para la gestión integral de servicios de agua potable en municipios, conforme a la **Ley N° 2066 de Bolivia**. Permite administrar usuarios, lecturas de medidores, tarifas por rangos, pagos, deudas, periodos de facturación y generar reportes ejecutivos.
 
-Ideal para **EPSAs municipales, cooperativas de agua y entidades prestadoras** que buscan digitalizar sus procesos, reducir tiempos de facturación y mejorar la transparencia en la recaudación.
+Ideal para **EPSAs municipales, cooperativas de agua, entidades prestadoras y Consultores DESCOM** que buscan digitalizar sus procesos, reducir tiempos de facturación y mejorar la transparencia en la recaudación.
+
+El proyecto nace como evolución de una herramienta desarrollada originalmente en Microsoft Excel con VBA, utilizada durante varios años en operaciones reales en el municipio de Colquiri, migrando posteriormente a una plataforma web moderna utilizando Python.
+
+---
+
+# 🎯 Objetivos
+
+✔ Digitalizar procesos administrativos
+✔ Reducir errores de cálculo
+✔ Mejorar la recaudación
+✔ Centralizar información
+✔ Facilitar la toma de decisiones
+✔ Modernizar la gestión municipal
+
+---
+
+## 📚 Documentación
+
+- 📖 **[Manual de Usuario](docs/manual_epsacomunitaria.pdf)** – Guía completa para administradores y operadores.
 
 ---
 
@@ -36,7 +55,8 @@ Ideal para **EPSAs municipales, cooperativas de agua y entidades prestadoras** q
 
 ## 🖼️ Capturas de pantalla
 
-> *Próximamente – DEMO en vivo: [https://epsacomunitaria.streamlit.app](https://epsacomunitaria.streamlit.app)*
+### Dashboard principal
+![Dashboard](screenshots/dashboard.png)
 
 ---
 
@@ -52,4 +72,37 @@ Ideal para **EPSAs municipales, cooperativas de agua y entidades prestadoras** q
 
 ---
 
-## 📦 Instalación y configuración local
+## 📦 Instalación y pruebas
+
+[Demo en Streamlit](https://epsacomunitaria-1-ilyfoz5xepmm7szftxktqe.streamlit.app/)
+
+---
+
+## 👥 Créditos y contacto
+Desarrollado por Macario Esprella
+	Ingeniero Agronomo
+	Especialista en Gestión del Agua
+	Python Developer
+	Transformación Digital para Municipios
+    📧 Email: esprellamacario@gmail.com
+
+
+## 🏛️ Soporte para EPSAs
+¿Eres una EPSA municipal y necesitas implementar el sistema?
+Ofrecemos:
+
+    Implementación personalizada (migración de datos, configuración).
+    Capacitación presencial o virtual para el personal.
+    Soporte técnico prioritario (chat, teléfono, email).
+    Planes de suscripción adaptados a tu tamaño y necesidades.
+
+---
+
+# ⭐ Si este proyecto te resulta útil
+
+No olvides dejar una ⭐ en GitHub.
+Tu apoyo ayuda a continuar desarrollando soluciones tecnológicas para fortalecer la gestión pública y los servicios de agua potable.
+
+---
+
+**¡Digitaliza tu gestión del agua con EPSACOMUNITARIA Digital!** 💧🚀
